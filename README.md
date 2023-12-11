@@ -1,4 +1,4 @@
-A <a href="https://zipprr.com/category/taskrabbit-clone/">TaskRabbit clone script</a> allows anyone to launch their own on-demand task and service marketplace like TaskRabbit. Zipprr provides a pre-built clone solution that handles all the complex development work so you can focus on your business.
+A <a href="https://zipprr.com/taskrabbit-clone/">TaskRabbit clone script</a> allows anyone to launch their own on-demand task and service marketplace like TaskRabbit. Zipprr provides a pre-built clone solution that handles all the complex development work so you can focus on your business.
 
 <h2><b>Advanced Features</b></h2>
 
